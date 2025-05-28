@@ -13,7 +13,7 @@
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/laravel-mid-level-project-task-api-nombre.git
+git clone https://github.com/OreCarlos/aravel-mid-level-project-task-api--Carlos-ore-.git
 cd laravel-mid-level-project-task-api-nombre
 
 
